@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Account Kit</string>
+
+    <string name="FACEBOOK_APP_ID">253325695429901</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">f1e7b067a6d1ab0704bedd5c62cc56ec</string>
+
+
+    <string name="ak_login_protocol_scheme">ak253325695429901</string>
+</resources>
